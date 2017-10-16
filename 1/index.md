@@ -20,7 +20,7 @@ Hi, I’m Colin a product manager working on [beta.parliament.uk](https://beta.p
 * More research on bettering our contact journey (contact work)
 * More research on what users need from voting records type info (understand how a MP or Lord represents them)
 
-##### Random this I’ve learned
+##### Random things I’ve learned
 * Surgeries are a relatively recent occurrence. I had romantic views that MPs had been regularly going back to their constituencies for hundreds of years. In fact I was told surgeries are quite recent phenomena, only really got going from the 60’s onwards.
 * Stuff on Written Questions that constrains what we might deliver in the first iteration.
 * Information about Financial Interests systems and reporting.
