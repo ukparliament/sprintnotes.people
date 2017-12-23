@@ -1,5 +1,6 @@
 ## UK Parliament "People" sprintnotes
 
+* [Sprint 42](6)
 * [Sprint 41](5)
 * [Sprint 40](4)
 * [Sprint 39](3)
