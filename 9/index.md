@@ -29,7 +29,7 @@ Wider team work:
 * Trying to promote the creation of a cross-legislature community
 * More topics/concepts chat - important for activity
 * Helping out plans to [make PDS more engaging on social media](https://twitter.com/ParliDigital)
-* [Brony](https://twitter.com/bryonywatson1) [helped to put on codebar](https://twitter.com/bryonywatson1/status/959013752057356288) which is very cool and should be applauded!
+* [Bryony](https://twitter.com/bryonywatson1) [helped to put on codebar](https://twitter.com/bryonywatson1/status/959013752057356288) which is very cool and should be applauded!
 
 Random things we’ve learned or have been reading:
 * What happens [when Amazon comes to town](https://www.citylab.com/equity/2018/02/what-amazon-does-to-poor-cities/552101/?utm_source=recode)
