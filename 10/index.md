@@ -28,7 +28,7 @@ Wider team work:
 * Lots of House of Lords-related work as mentioned above!
 * [Bryony](https://twitter.com/bryonywatson1) carried on with [groups](https://github.com/ukparliament/ontologies/blob/master/urls.csv) with complete dedication. 
 
-Random things we’ve learned or have been reading:
+##### Random things we’ve learned or have been reading:
 * [could be a useful tool for some](https://www.polimonitor.com/)
 * [Data centres in Iceland](http://www.bbc.co.uk/news/technology-43030677) going to use more energy than homes
 * Airbnb and how it affects the interpretation of what [home is](https://www.theguardian.com/commentisfree/2018/feb/12/profiteers-killing-airbnb-erode-communities).
