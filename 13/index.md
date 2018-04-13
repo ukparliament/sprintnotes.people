@@ -46,10 +46,10 @@ Wider team work:
 * Great explainer on [how laws are made!](https://mailchi.mp/078ff75c6420/here-are-the-laws-mps-are-voting-on-this-week-189823?e=dc6e28b9a6) 
 * [Slack and mansplaining](https://work.qz.com/1238413/slack-analytics-will-soon-know-if-you-speak-to-men-and-women-differently/). Interesting to see what sort of insights will come out of this.
 * #deletefacebook movement [not possible for some](https://freedom-to-tinker.com/2018/03/28/when-the-choice-is-to-delete-facebook-or-buy-a-loaf-of-bread/).
-* [No privacy for the dead?](https://www.forbes.com/sites/thomasbrewster/2018/03/22/yes-cops-are-now-opening-iphones-with-dead-peoples-fingerprints/#3ec78a62393e). Cases when police have used the fingerprints of the dead to unlock phones.
+* [No privacy for the dead?](https://www.forbes.com/sites/thomasbrewster/2018/03/22/yes-cops-are-now-opening-iphones-with-dead-peoples-fingerprints/#3ec78a62393e) Cases when police have used the fingerprints of the dead to unlock phones.
 * [UK Parliament re-brand!](https://someoneinlondon.com/projects/the-first-visual-identity-for-uk-parliament). What has been done and why.
 * [Better Election Data plz!](https://gdstechnology.blog.gov.uk/2018/02/20/help-us-open-up-uk-election-data/). [Interesting comments here](https://github.com/alphagov/open-standards/issues/42) too.
-* [Rating inflation on Uber](https://qz.com/1244155/good-luck-leaving-your-uber-driver-less-than-five-stars/) - I’ve definitely done this.
+* [Inflating your rating on Uber as 4 stars just ain't good enough](https://qz.com/1244155/good-luck-leaving-your-uber-driver-less-than-five-stars/) - I’ve definitely done this.
 
 #### Announcements
-[Colin](https://twitter.com/colinpattinson?lang=en) handed in his notice to embark on a new adventure. He thinks the team are immense and will enjoy the next few weeks together doing good stuff.
+I handed in my notice to embark on a new adventure. I think the team are immense and will enjoy the next few weeks together doing good stuff.
