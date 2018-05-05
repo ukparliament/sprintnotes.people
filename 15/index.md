@@ -12,8 +12,8 @@ What we have achieved:
 * Written Q and A pages are alive and kicking and are available on our dev environment.
 * we've noticed a few things to fix including some content changes, the way tables look and issues with links
 * [Bryony](https://twitter.com/bryonywatson1?lang=en) continues to be a trooper and wrangle SPARQL queries
-* [Marttiina](https://twitter.com/marttiinak?lang=en) rand two sessions - one on findings from our a survey we ran about what types of contact MP's receive in their constituency offices
-* The other afternoon was all about going through previous research to do with the contact journey which was a ton of fun and loved the intro activity!
+* [Marttiina](https://twitter.com/marttiinak?lang=en) ran two sessions - one on findings from our a survey we sent out about what types of contact MP's receive in their constituency offices
+* The other was all about going through previous research to do with the contact journey [which was a ton of fun and loved the intro activity!](https://twitter.com/MarttiinaK/status/992080828980219906)
 * we had a fantastic retro by [Victor](https://twitter.com/_victorhwang?lang=en)
 * We moved! Proud residents in Richmond house now. Some of us may of been on a wander around the building and found a number of secret rooms.
 * Fixed [social media and names for MPs on beta](https://beta.parliament.uk/people/jlAAlWAo)
@@ -78,8 +78,8 @@ BUMPER EDITION
 * [Hansard report about engagement in politics and Parliament](https://www.hansardsociety.org.uk/publications/audit-of-political-engagement-15-2018)! Well worth checking out.
 
 #### Check out!
-[More updates](https://ukparliament.github.io/sprintnotes.outputs/) from another my colleague Fred!! Keep it up! 
+[More updates](https://ukparliament.github.io/sprintnotes.outputs/) from my colleague Fred!! Keep it up! 
 
 #### Goodbyes
-So this is my final sprint notes and goodbyes. To the team - you were an absolute joy to be around and made it a pleasure to come into work each day. Still more interesting things to achieve and keep fighting the good fit. To wider colleagues I learned a lot and will look back with fond memories of my time here. Shall miss you all!
+So this is my final sprint notes and goodbyes. To the team - you were an absolute joy to be around and made it a pleasure to come into work each day. Still more interesting things to achieve and keep fighting the good fight. To wider colleagues, I learned a lot and will look back with fond memories of my time here. Shall miss you all!
 
