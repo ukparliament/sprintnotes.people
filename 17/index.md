@@ -16,6 +16,8 @@ Visited Parliament's Table Office
 * how questions are checked for appropriateness and accuracy
 * the relationship between oral and written questions
 
+Dia presented at the website show and tell. She gave an an update on Written Questions and Answers. She spoke about the vision and why the team was working on it and the next steps. Joshua from the team took everyone through the prototypes.
+
 Examined the data
 
 Naz presented us with analytics around the performance of our beta pages. The key points were:
