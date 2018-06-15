@@ -79,4 +79,4 @@ Other teams
 
 If you’re interested to read about the work of another teams, you can read sprint notes from the [outputs team](https://ukparliament.github.io/sprintnotes.outputs/), and the [data and search](https://ukparliament.github.io/weeknotes.data-search/) team.
 
-You can also follow [regular updates](https://colinpattinson.github.io/Updates/16/) from the people team’s former product manager, Colin Paterson, in his current role as product manager as the Department of Health and Social Care.
+You can also follow [regular updates](https://colinpattinson.github.io/Updates/16/) from the people team’s former product manager, Colin Pattinson, in his current role as product manager as the Department of Health and Social Care.
