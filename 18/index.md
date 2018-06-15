@@ -14,7 +14,7 @@ Written Qs and As
 
 [Dia](https://twitter.com/DN78), our product manager, was happy to report that written questions and answers are on beta. For the moment we just have questions, answered questions and questions that are ‘not yet answered’, but we are working hard to complete this next sprint.
 
-![Written Qs and As on beta.parliament.uk]({{ site.url }}/assets/q-a-beta.png)
+![Written Qs and As on beta.parliament.uk]({{ site.url }}/sprintnotes.people/assets/q-a-beta.png)
 
 Research
 
