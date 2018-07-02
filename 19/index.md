@@ -47,19 +47,19 @@ Designer [Victor](https://twitter.com/_victorhwang?lang=en) has been working wit
 
 He has also looked at making the headers more consistent across the UK Parliament beta website to make them sustainable for the future and better for search and usability.
 
-[Joshua](https://twitter.com/joshuawaheed) a has: 
+[Joshua](https://twitter.com/joshuawaheed) has: 
 
 * implemented a ghost button with four different themes
 * deployed a toggle function to live across beta
 * submitted a pull request for a filter by department menus, which is currently in review.
 
-I delivered another ‘Creating digital content’ session to colleagues from both Houses of Parliament and PDS.
+I delivered another ‘Creating digital content’ session to colleagues from the Commons, Lords and PDS.
 
 ##### What we have planned
 
 Iteration
 
-Following this sprints’ testing we will be making changes to:
+Following this sprint's testing we will be making changes to:
 
 * the preview of MPs and Lords roles content
 * the journey to written questions and answers from MPs pages
@@ -75,7 +75,7 @@ Our hope for the contact product is that it will:
 * improve engagement between the outside world and MPs and Lords
 * look at the challenges the organisation encounters when dealing with large volumes of communication, across different channels, from the public.
 
-The plain for this sprint is for [Dia](https://twitter.com/DN78) and [Marttiina](https://twitter.com/marttiinak?lang=en) to:
+The plan for this sprint is for [Dia](https://twitter.com/DN78) and [Marttiina](https://twitter.com/marttiinak?lang=en) to:
 
 * identify the relevant stakeholders
 * define the scope
@@ -91,7 +91,7 @@ Design backlog
 
 [Victor](https://twitter.com/_victorhwang?lang=en) has been considering the [ethics of service design](https://www.amazon.co.uk/Introduction-Service-Design-Lara-Penin/dp/1472572580/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1530025686&sr=8-1) and agreeing with an article about [the boring designer](http://blog.capwatkins.com/the-boring-designer).
 
-I've read about how [slow innovation is the way forward](https://www.fastcodesign.com/90175385/why-slow-innovation-is-the-way-forward) and how [Orwell predicted the challenge of writing today]https://www.newyorker.com/news/our-columnists/how-george-orwell-predicted-the-challenge-of-writing-today).
+I've read about how [slow innovation is the way forward](https://www.fastcodesign.com/90175385/why-slow-innovation-is-the-way-forward) and how [Orwell predicted the challenge of writing today](https://www.newyorker.com/news/our-columnists/how-george-orwell-predicted-the-challenge-of-writing-today).
 
 Other teams
 
