@@ -85,7 +85,7 @@ Victor has also been putting together a talk for the [International Design in Go
 ##### Interesting things we have read or learned
 
 Jaron Lanier [discusses the ideas behind his new book](https://www.vox.com/ezra-klein-show-podcast), Ten Arguments for Deleting Your Social Media Accounts Right Now, with Ezra Klein.
-GDS blog post [‘what to expect at the first international design in government conference’]
+GDS blog post [what to expect at the first international design in government conference]
 (https://designnotes.blog.gov.uk/2018/07/06/what-to-expect-at-the-first-international-design-in-government-conference/)
 
 Despite their loss to Croatia, the England team have succeeded in strengthening their relationship with their fans: [was it due to tweets and memes?](http://www.wired.co.uk/article/england-world-cup-social-media)
