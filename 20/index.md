@@ -23,7 +23,9 @@ Homepage
 The homepage has been redesigned to include sections, to allow people to scan the information to find what they are looking for quickly.
 The sections are broad categories that work in the short-term but will be iterated as the homepage continues to change.
 The implementation will be carried out by the utilities team.
-Contact
+
+##### Contact
+
 [Marttiina](https://twitter.com/marttiinak) and [Dia](https://twitter.com/DN78) have conducted their initial round of meetings. They will continue their interviews during our next sprint and present their findings to the team.
 Sprint ceremonies
 With the arrival of Simon, our new delivery manager, the team decided it was a good opportunity to review how we conduct our review, retrospective and planning sessions.
