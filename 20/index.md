@@ -66,7 +66,7 @@ I’m a big believer in keeping these values in mind when interacting with colle
 
 [Marttiina](https://twitter.com/marttiinak) is currently taking some well-deserved annual leave, but earlier in the sprint she delivered a fantastic presentation on Service Design.
 
-Here’s what our head Head of User Research and Design thought of it:
+Here’s what our Head of User Research and Design thought of it:
 
 ![Tweet]({{ site.url }}/sprintnotes.people/assets/tweetfromjeanette.png)
 
@@ -96,4 +96,5 @@ If you’re interested to read about the work of another teams, you can read spr
 * [outputs](https://ukparliament.github.io/sprintnotes.outputs/)
 * [data and search](https://ukparliament.github.io/weeknotes.data-search/)
 * [utilities](https://medium.com/@gemmarogers1)
+
 You can also follow [regular updates](https://colinpattinson.github.io/Updates/22/) from the people team’s former product manager, Colin Pattinson, in his current role as product manager as the Department of Health and Social Care.
