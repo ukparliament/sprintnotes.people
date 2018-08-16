@@ -20,10 +20,10 @@ Yet when we moved we failed to carry the processes with us. Maybe it was the new
 
 We now have the following up on walls:
 
-* written question and answer journey ![Written QA Visualisation]({{ site.url }}/sprintnotes.people/assets/written-qa-visualisation.jpg)
+* written question and answer journey
 * annotated current MP and beta MP pages
-* contact discovery goals ![Contact discovery goals]({{ site.url }}/sprintnotes.people/assets/contact-discovery-goals.jpg)
-* contact research plan
+* contact discovery goals
+* contact research plan ![Written QA Visualisation]({{ site.url }}/sprintnotes.people/assets/written-qa-visualisation.jpg)
 
 The return to displaying our work has helped the team feel organised, focused and aware of the progress being made across the different work strands.
 
@@ -45,7 +45,7 @@ We launched contact discovery with a great meeting with colleagues and stakehold
 
 * presented previous research
 * expressed our hopes and fears around contact discovery
-* outlined discovery goals
+* outlined discovery goals ![Contact discovery goals]({{ site.url }}/sprintnotes.people/assets/contact-discovery-goals.jpg)
 
 Following the launch, [Marttiina](https://twitter.com/marttiinak) drafted and presented her research plan for contact discovery to the team. The high impact questions the team want to investigate are:
 
