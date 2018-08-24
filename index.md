@@ -1,5 +1,6 @@
 ## UK Parliament "People" sprintnotes
 
+* [Sprint 59](23): Desk research and summer breaks
 * [Sprint 58](22): Launching contact discovery
 * [Sprint 57](21): Members work and more
 * [Sprint 56](20): Roles on beta
