@@ -14,7 +14,7 @@ This sprint we’ve seen members of the team make progress on various products, 
 
 Desk research for contact
 
-The majority of the team have been involved in desk research as part of our contact discovery work, which we (launched last sprint)[https://ukparliament.github.io/sprintnotes.people/22/]. Areas of investigation have included:
+The majority of the team have been involved in desk research as part of our contact discovery work, which we [launched last sprint](https://ukparliament.github.io/sprintnotes.people/22/). Areas of investigation have included:
 
 * MPs’ websites
 * Members of the House of Lords’ websites
@@ -61,7 +61,7 @@ Find your MP
 
 Naz was looking at failed postcode searches on our [‘Find your MP’ postcode lookup tool](https://beta.parliament.uk/mps). We hypothesised that users may be entering their MP’s name rather than their postcode (which would throw up an error).
 
-One we have the findings we will discuss them as a group to decide what we can do to reduce the number of failed postcode searches, or if we can implement a solution based on the information we have.
+Once we have the findings we will discuss them as a group to decide what we can do to reduce the number of failed postcode searches, or if we can implement a solution based on the information we have.
 
 Roles
 
