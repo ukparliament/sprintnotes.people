@@ -1,6 +1,6 @@
 ## UK Parliament "People" sprintnotes
 
-* [Sprint 61](25): More research, members issues and summer breaks
+* [Sprint 61](25): More research and summer breaks, vol. 3
 * [Sprint 60](24): Desk research and more summer breaks, vol. 2
 * [Sprint 59](23): Desk research and summer breaks
 * [Sprint 58](22): Launching contact discovery
